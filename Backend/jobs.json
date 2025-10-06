@@ -1,0 +1,319 @@
+{
+  "4311d736-75e0-409f-a5eb-fedf3cee608a": {
+    "id": "4311d736-75e0-409f-a5eb-fedf3cee608a",
+    "jobName": "Manual Job",
+    "status": "finished",
+    "createdAt": "2025-10-05T16:25:31.980Z",
+    "items": [
+      {
+        "key": 1759681516353,
+        "phone": "9328300819",
+        "caption": "Hii Baby...",
+        "mediaUrl": ""
+      }
+    ],
+    "results": [
+      {
+        "phone": "9328300819",
+        "status": "sent",
+        "index": 0
+      }
+    ],
+    "startedAt": "2025-10-05T16:25:31.984Z",
+    "finishedAt": "2025-10-05T16:25:42.275Z"
+  },
+  "8d5d41f9-9dbc-4efc-9148-74ac6740ad39": {
+    "id": "8d5d41f9-9dbc-4efc-9148-74ac6740ad39",
+    "jobName": "Manual Job",
+    "status": "finished",
+    "createdAt": "2025-10-05T16:30:39.776Z",
+    "items": [
+      {
+        "key": 1759681630053,
+        "phone": "7405698382",
+        "caption": "Hiii this is automatic message",
+        "mediaUrl": ""
+      }
+    ],
+    "results": [
+      {
+        "phone": "7405698382",
+        "status": "failed",
+        "error": "Evaluation failed: b"
+      }
+    ],
+    "startedAt": "2025-10-05T16:30:39.779Z",
+    "finishedAt": "2025-10-05T16:31:02.439Z"
+  },
+  "7b821e1b-3205-4111-8fe8-9db7eb738395": {
+    "id": "7b821e1b-3205-4111-8fe8-9db7eb738395",
+    "jobName": "Manual Job",
+    "status": "finished",
+    "createdAt": "2025-10-05T16:31:52.210Z",
+    "items": [
+      {
+        "key": 1759681901297,
+        "phone": "7405698382",
+        "caption": "This is automatic message!",
+        "mediaUrl": ""
+      }
+    ],
+    "results": [
+      {
+        "phone": "7405698382",
+        "status": "sent",
+        "index": 0
+      }
+    ],
+    "startedAt": "2025-10-05T16:31:52.216Z",
+    "finishedAt": "2025-10-05T16:32:02.334Z"
+  },
+  "c19b52ce-fed4-4c18-a8c6-66cd4bb72366": {
+    "id": "c19b52ce-fed4-4c18-a8c6-66cd4bb72366",
+    "jobName": null,
+    "status": "finished",
+    "createdAt": "2025-10-05T17:35:36.787Z",
+    "items": [
+      {
+        "phone": "917048523987",
+        "caption": "Hello How are you?",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759685736781-786993.png"
+      }
+    ],
+    "results": [
+      {
+        "phone": "917048523987",
+        "status": "sent",
+        "index": 0
+      }
+    ],
+    "startedAt": "2025-10-05T17:35:36.790Z",
+    "finishedAt": "2025-10-05T17:35:46.797Z"
+  },
+  "e2171e6e-d672-4274-842a-16a52b7333c0": {
+    "id": "e2171e6e-d672-4274-842a-16a52b7333c0",
+    "jobName": null,
+    "status": "finished",
+    "createdAt": "2025-10-05T17:38:06.277Z",
+    "items": [
+      {
+        "phone": "7405698382",
+        "caption": "Simat Card",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759685886232-112192.pdf"
+      },
+      {
+        "phone": "9328300819",
+        "caption": "Simat Card",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759685886232-112192.pdf"
+      }
+    ],
+    "results": [
+      {
+        "phone": "7405698382",
+        "status": "sent",
+        "index": 0
+      },
+      {
+        "phone": "9328300819",
+        "status": "sent",
+        "index": 1
+      }
+    ],
+    "startedAt": "2025-10-05T17:38:06.283Z",
+    "finishedAt": "2025-10-05T17:38:33.408Z"
+  },
+  "1ccc179d-9c38-4c49-ae8b-7a257aa95f1b": {
+    "id": "1ccc179d-9c38-4c49-ae8b-7a257aa95f1b",
+    "jobName": null,
+    "status": "finished",
+    "createdAt": "2025-10-05T20:45:23.957Z",
+    "items": [
+      {
+        "phone": "7048523987",
+        "caption": "સર્વો",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759697123911-56508.pdf"
+      }
+    ],
+    "results": [
+      {
+        "phone": "7048523987",
+        "status": "sent",
+        "index": 0
+      }
+    ],
+    "startedAt": "2025-10-05T20:45:23.962Z",
+    "finishedAt": "2025-10-05T20:45:38.288Z"
+  },
+  "f987c1f4-fbf1-4439-b082-5335c3781176": {
+    "id": "f987c1f4-fbf1-4439-b082-5335c3781176",
+    "jobName": null,
+    "status": "finished",
+    "createdAt": "2025-10-05T21:12:13.444Z",
+    "items": [
+      {
+        "name": "ધાર્મિક ભરતભાઈ પાંડવ",
+        "phone": "7048523987",
+        "message": "સર્વો",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759698733374-676842.pdf"
+      }
+    ],
+    "results": [
+      {
+        "phone": "7048523987",
+        "status": "sent",
+        "index": 0
+      }
+    ],
+    "startedAt": "2025-10-05T21:12:13.458Z",
+    "finishedAt": "2025-10-05T21:12:29.972Z"
+  },
+  "3ed30863-6ec6-4159-9983-9c749a6b33ff": {
+    "id": "3ed30863-6ec6-4159-9983-9c749a6b33ff",
+    "jobName": null,
+    "status": "finished",
+    "createdAt": "2025-10-05T21:16:06.084Z",
+    "items": [
+      {
+        "name": "ધાર્મિક ભરતભાઈ પાંડવ",
+        "phone": "7048523987",
+        "message": "સર્વો",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759698965784-527611.pdf"
+      }
+    ],
+    "results": [
+      {
+        "phone": "7048523987",
+        "status": "sent",
+        "index": 0
+      }
+    ],
+    "startedAt": "2025-10-05T21:16:06.103Z",
+    "finishedAt": "2025-10-05T21:16:23.570Z"
+  },
+  "b9baf89c-12ce-4b8a-a57a-87b140d3fc19": {
+    "id": "b9baf89c-12ce-4b8a-a57a-87b140d3fc19",
+    "jobName": null,
+    "status": "finished",
+    "createdAt": "2025-10-05T21:19:41.100Z",
+    "items": [
+      {
+        "name": "ધાર્મિક ભરતભાઈ પાંડવ",
+        "phone": "7048523987",
+        "message": "સર્વો",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759699181025-31642.pdf"
+      },
+      {
+        "name": "ચંદ્રેશ ભરતભાઈ પાંડવ",
+        "phone": "7405698382",
+        "message": 2,
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759699181025-31642.pdf"
+      }
+    ],
+    "results": [
+      {
+        "phone": "7048523987",
+        "status": "sent",
+        "index": 0
+      },
+      {
+        "phone": "7405698382",
+        "status": "sent",
+        "index": 1
+      }
+    ],
+    "startedAt": "2025-10-05T21:19:41.114Z",
+    "finishedAt": "2025-10-05T21:20:14.542Z"
+  },
+  "8462cbdd-11c3-4cb8-8986-107a2c292b25": {
+    "id": "8462cbdd-11c3-4cb8-8986-107a2c292b25",
+    "jobName": null,
+    "status": "finished",
+    "createdAt": "2025-10-05T21:21:28.443Z",
+    "items": [
+      {
+        "name": "ધાર્મિક ભરતભાઈ પાંડવ",
+        "phone": "7048523987",
+        "message": "સર્વો",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759699288366-458110.pdf"
+      },
+      {
+        "name": "ચંદ્રેશ ભરતભાઈ પાંડવ",
+        "phone": "7405698382",
+        "message": "સર્વો",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759699288366-458110.pdf"
+      }
+    ],
+    "results": [
+      {
+        "phone": "7048523987",
+        "status": "sent",
+        "index": 0
+      },
+      {
+        "phone": "7405698382",
+        "status": "sent",
+        "index": 1
+      }
+    ],
+    "startedAt": "2025-10-05T21:21:28.455Z",
+    "finishedAt": "2025-10-05T21:22:03.573Z"
+  },
+  "02caa74f-6d37-495b-bc5f-e605a306fb15": {
+    "id": "02caa74f-6d37-495b-bc5f-e605a306fb15",
+    "jobName": null,
+    "status": "finished",
+    "createdAt": "2025-10-06T17:43:00.559Z",
+    "items": [
+      {
+        "name": "ધાર્મિક ભરતભાઈ પાંડવ",
+        "phone": "7048523987",
+        "message": "સર્વો",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759772580507-852762.pdf"
+      },
+      {
+        "name": "ચંદ્રેશ ભરતભાઈ પાંડવ",
+        "phone": "7405698382",
+        "message": "સર્વો",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759772580507-852762.pdf"
+      },
+      {
+        "name": "ઢીંગલી",
+        "phone": "9328300819",
+        "message": "સર્વો",
+        "fileIndex": 0,
+        "mediaPath": "uploads\\1759772580507-852762.pdf"
+      }
+    ],
+    "results": [
+      {
+        "phone": "7048523987",
+        "status": "sent",
+        "index": 0
+      },
+      {
+        "phone": "7405698382",
+        "status": "sent",
+        "index": 1
+      },
+      {
+        "phone": "9328300819",
+        "status": "sent",
+        "index": 2
+      }
+    ],
+    "startedAt": "2025-10-06T17:43:00.565Z",
+    "finishedAt": "2025-10-06T17:43:42.844Z"
+  }
+}

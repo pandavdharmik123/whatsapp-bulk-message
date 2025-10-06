@@ -1,0 +1,6 @@
+/Backend/.wwebjs_cache
+/Backend/.wwebjs_auth
+/Backend/node_modules
+/Frontend/node_modules
+
+./.idea
